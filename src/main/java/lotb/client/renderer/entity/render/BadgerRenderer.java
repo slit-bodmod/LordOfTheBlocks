@@ -2,7 +2,7 @@ package lotb.client.renderer.entity.render;
 
 import lotb.LotbMod;
 import lotb.client.renderer.entity.model.BadgerModel;
-import lotb.entities.Badger;
+import lotb.common.entities.Badger;
 import net.minecraft.client.renderer.entity.EntityRendererManager;
 import net.minecraft.client.renderer.entity.MobRenderer;
 import net.minecraft.util.ResourceLocation;

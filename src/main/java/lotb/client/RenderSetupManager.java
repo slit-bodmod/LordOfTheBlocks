@@ -1,11 +1,10 @@
 package lotb.client;
 
 import lotb.client.gui.WorkBenchScreen;
-import lotb.client.renderer.ProjectileItemRenderer;
 import lotb.client.renderer.entity.render.*;
-import lotb.registries.ModBlocks;
-import lotb.registries.ModContainers;
-import lotb.registries.ModEntities;
+import lotb.core.registries.ModBlocks;
+import lotb.core.registries.ModContainers;
+import lotb.core.registries.ModEntities;
 import net.minecraft.client.gui.ScreenManager;
 import net.minecraft.client.renderer.RenderType;
 import net.minecraft.client.renderer.RenderTypeLookup;

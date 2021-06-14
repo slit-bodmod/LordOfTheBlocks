@@ -2,7 +2,7 @@ package lotb.client.renderer.entity.render;
 
 import lotb.LotbMod;
 import lotb.client.renderer.entity.model.MouseModel;
-import lotb.entities.Mouse;
+import lotb.common.entities.Mouse;
 import net.minecraft.client.renderer.entity.EntityRendererManager;
 import net.minecraft.client.renderer.entity.MobRenderer;
 import net.minecraft.util.ResourceLocation;

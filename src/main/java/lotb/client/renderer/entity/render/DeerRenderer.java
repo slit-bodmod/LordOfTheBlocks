@@ -1,7 +1,7 @@
 package lotb.client.renderer.entity.render;
 
 import lotb.LotbMod;
-import lotb.entities.Deer;
+import lotb.common.entities.Deer;
 import net.minecraft.client.renderer.entity.EntityRendererManager;
 import net.minecraft.client.renderer.entity.MobRenderer;
 import net.minecraft.client.renderer.entity.model.CowModel;

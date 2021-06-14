@@ -1,6 +1,6 @@
 package lotb.util;
 
-import lotb.registries.ModBlocks;
+import lotb.core.registries.ModBlocks;
 import net.minecraft.block.BlockState;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.renderer.color.BlockColors;

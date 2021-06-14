@@ -1,6 +1,6 @@
 package lotb.world;
 
-import lotb.registries.ModBlocks;
+import lotb.core.registries.ModBlocks;
 import net.minecraft.world.biome.Biome;
 import net.minecraft.world.gen.GenerationStage.Decoration;
 import net.minecraft.world.gen.feature.Feature;

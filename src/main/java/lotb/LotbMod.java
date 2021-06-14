@@ -1,11 +1,12 @@
 package lotb;
 
 import lotb.client.RenderSetupManager;
-import lotb.entities.ai.VanillaAddGoals;
-import lotb.entities.ai.ModActivities;
-import lotb.entities.ai.ModMemories;
-import lotb.entities.ai.ModSchedules;
-import lotb.entities.ai.ModSensors;
+import lotb.common.entities.ai.VanillaAddGoals;
+import lotb.common.entities.ai.ModActivities;
+import lotb.common.entities.ai.ModMemories;
+import lotb.common.entities.ai.ModSchedules;
+import lotb.common.entities.ai.ModSensors;
+import lotb.core.registries.*;
 import lotb.registries.*;
 import lotb.util.FoilageColorizer;
 import lotb.util.data.DataManager;

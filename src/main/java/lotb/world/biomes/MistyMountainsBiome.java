@@ -1,7 +1,7 @@
 package lotb.world.biomes;
 
-import lotb.registries.ModEntities;
-import lotb.registries.ModStructures;
+import lotb.core.registries.ModEntities;
+import lotb.core.registries.ModStructures;
 import lotb.world.ModOreGen;
 import net.minecraft.entity.EntityClassification;
 import net.minecraft.world.biome.Biome;

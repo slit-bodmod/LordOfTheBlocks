@@ -1,8 +1,7 @@
 package lotb.world.structures.pieces;
 
 import lotb.LotbMod;
-import lotb.registries.ModBlocks;
-import lotb.util.ModMathFunctions;
+import lotb.core.registries.ModBlocks;
 import lotb.world.structures.ModStructurePiece;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Blocks;
@@ -11,18 +10,15 @@ import net.minecraft.nbt.CompoundNBT;
 import net.minecraft.state.properties.Half;
 import net.minecraft.util.Direction;
 import net.minecraft.util.ResourceLocation;
-import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.ChunkPos;
 import net.minecraft.util.math.MutableBoundingBox;
 import net.minecraft.world.IWorld;
 import net.minecraft.world.gen.ChunkGenerator;
 import net.minecraft.world.gen.feature.structure.IStructurePieceType;
-import net.minecraft.world.gen.feature.structure.StructurePiece;
 import net.minecraft.world.gen.feature.template.PlacementSettings;
 import net.minecraft.world.gen.feature.template.Template;
 import net.minecraft.world.gen.feature.template.TemplateManager;
 
-import java.util.List;
 import java.util.Random;
 
 public class RohanMeadhallPieces {

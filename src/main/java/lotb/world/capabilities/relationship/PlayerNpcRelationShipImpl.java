@@ -2,9 +2,9 @@ package lotb.world.capabilities.relationship;
 
 import com.google.common.collect.Maps;
 import lotb.LotbMod;
-import lotb.entities.npc.AbstractNPCEntity;
-import lotb.entities.npc.IDataNPC;
-import lotb.entities.npc.relationship.RelationShip;
+import lotb.common.entities.npc.AbstractNPCEntity;
+import lotb.common.entities.npc.IDataNPC;
+import lotb.common.entities.npc.relationship.RelationShip;
 import lotb.util.Valid;
 import net.minecraft.world.World;
 

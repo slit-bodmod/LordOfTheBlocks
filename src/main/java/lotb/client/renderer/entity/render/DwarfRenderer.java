@@ -2,7 +2,7 @@ package lotb.client.renderer.entity.render;
 
 import com.mojang.blaze3d.matrix.MatrixStack;
 import lotb.LotbMod;
-import lotb.entities.npc.DwarfNPCEntity;
+import lotb.common.entities.npc.DwarfNPCEntity;
 import net.minecraft.client.renderer.RenderType;
 import net.minecraft.client.renderer.entity.BipedRenderer;
 import net.minecraft.client.renderer.entity.EntityRendererManager;

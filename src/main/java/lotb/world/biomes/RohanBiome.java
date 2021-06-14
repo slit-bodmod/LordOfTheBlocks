@@ -1,6 +1,6 @@
 package lotb.world.biomes;
 
-import lotb.registries.ModStructures;
+import lotb.core.registries.ModStructures;
 import lotb.world.ModOreGen;
 import net.minecraft.block.Blocks;
 import net.minecraft.world.biome.Biome;

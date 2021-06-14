@@ -2,7 +2,7 @@ package lotb.client.gui;
 
 import com.mojang.blaze3d.systems.RenderSystem;
 
-import lotb.inventory.RohanWorkBenchContainer;
+import lotb.common.inventory.RohanWorkBenchContainer;
 
 import java.util.List;
 

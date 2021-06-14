@@ -1,6 +1,6 @@
 package lotb.world.structures.pieces;
 
-import lotb.registries.ModBlocks;
+import lotb.core.registries.ModBlocks;
 import lotb.util.ModMathFunctions;
 import lotb.world.structures.ModStructurePiece;
 import net.minecraft.block.*;
